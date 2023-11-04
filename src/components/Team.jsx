@@ -39,36 +39,27 @@ const DeveloperCard = ({ name, role, avatar ,linkedin,github,instagram , portfol
 const Team = () => {
   const developers = [
     {
-      name: 'Deepesh Gupta',
+      name: 'Mohamed Waseem A',
       role: 'Research & Development',
-      avatar: deepesh,
+      avatar: waseem,
       github: "https://github.com/waseem0605",
       linkedin:'https://www.linkedin.com/in/mohamed-waseem-%E2%80%8E-a52727228',
       instagram: 'https://www.instagram.com/waseem_0605/ ',
       portfolio : 'https://waseem0605.netlify.app'
     },
     {
-      name: 'Deveshwar Singh Rajawat',
+      name: 'Mohanraj M',
       role: 'Blockchain Developer',
-      avatar: deveshwar,
+      avatar: mohan,
       github: 'https://github.com/mohanrajmdev',
       linkedin: 'https://www.linkedin.com/in/mohanraj-m-679723238/',
       instagram: 'https://www.instagram.com/moh.an.raj/',
       portfolio : 'https://mohanrajmdev.github.io/portfolio-website/'
     },
     {
-      name: 'Jigyashu Sharma',
+      name: 'Janani M',
       role: 'UI/UX DESIGNER',
-      avatar: jigyashu,
-      github: 'https://github.com/Janani-m17',
-      linkedin:'https://www.linkedin.com/in/janani-manikandan-7a01b624a',
-      instagram: 'https://instagram.com/jananimanikandan_17/',
-      portfolio : ''
-    },
-    {
-      name: 'Laveena Goyal',
-      role: 'UI/UX DESIGNER',
-      avatar: laveena,
+      avatar: janani,
       github: 'https://github.com/Janani-m17',
       linkedin:'https://www.linkedin.com/in/janani-manikandan-7a01b624a',
       instagram: 'https://instagram.com/jananimanikandan_17/',
