@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+    "name": "ChainProof",
+    "version": "1.0.0",
+    "description": "Document creation and Validation using Blockchain",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "darklogo.png",
+        "default_title": "ChainProof Extension"
+    },
+  "short_name": "ChainProof",
+  "icons": [
+    {
+      "src": "./darklogo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./darklogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./darklogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
